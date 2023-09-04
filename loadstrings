@@ -1,0 +1,1 @@
+ESP = loadstring(game:HttpGet("https://github.com/Eridus/sperma/blob/main/sperma.lua"))()
